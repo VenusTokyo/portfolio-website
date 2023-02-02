@@ -17,7 +17,7 @@
     line-height: 90px;
     width: 100%;
     overflow: hidden;
-    animation: slide 20s steps(5) infinite;
+   /* animation: slide 20s steps(5) infinite; */
     
 }
 
